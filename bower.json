@@ -1,0 +1,22 @@
+{
+  "name": "Angular Translit Filter",
+  "version": "1.0.0",
+  "author": "Daniel Campos",
+  "description": "Translit filter to convert strings containing special chars",
+  "homepage": "https://github.com/dalvaren/angular-translit",
+  "authors": [
+    "Daniel Campos <daniel.campos@clickbus.com.br>"
+  ],
+  "keywords": [
+    "angularjs",
+    "translit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
