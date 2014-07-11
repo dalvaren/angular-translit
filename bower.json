@@ -11,5 +11,6 @@
     "angularjs",
     "translit"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
